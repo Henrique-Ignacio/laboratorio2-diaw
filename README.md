@@ -26,7 +26,7 @@
 - [Licença](#-licença)
 
 ## 🔗 Links Úteis
-- 📖 **Modelagem UML:** [`docs/modelagem.md`](docs/modelagem.md) e [`docs/casos-de-uso.puml`](docs/casos-de-uso.puml)
+- 📖 **Modelagem UML:** [`docs/modelagem.md`](docs/modelagem.md)
 
 ## 📝 Sobre o Projeto
 Gerir aluguéis de automóveis por telefone ou papel é lento e sujeito a erros. Este sistema centraliza o processo: o cliente registra o pedido, o agente (empresa ou banco) faz a análise financeira e, com parecer positivo, o pedido segue para execução do contrato, podendo envolver um contrato de crédito concedido por um banco. O projeto nasceu como laboratório acadêmico e demonstra um fluxo completo com autenticação, CRUD e arquitetura MVC, com o modelo UML alinhado ao código.
