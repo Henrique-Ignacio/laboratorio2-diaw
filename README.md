@@ -135,17 +135,14 @@ npm run dev
         └── /resources           # application.properties
 ```
 
-## 🎥 Demonstração
-_Adicione aqui prints ou GIFs das telas: login/cadastro, lista de pedidos, criação de pedido, avaliação pelo agente e execução do contrato._
-
 ## 🔗 Documentações utilizadas
 - 📖 [React](https://react.dev/reference/react) · [Vite](https://vitejs.dev/config/) · [Spring Boot](https://docs.spring.io/spring-boot/) · [Supabase](https://supabase.com/docs)
 - 📖 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## 👥 Autores
-| 👤 Nome | GitHub | LinkedIn |
-|---|---|---|
-| Henrique Ignacio Ferreira Souza | _(link)_ | _(link)_ |
+| 👤 Nome |
+|---|
+| Henrique Ignacio Ferreira Souza 
 
 ## 🙏 Agradecimentos
 - [**Engenharia de Software PUC Minas**](https://www.instagram.com/engsoftwarepucminas/)
