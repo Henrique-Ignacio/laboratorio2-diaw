@@ -18,7 +18,6 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Arquitetura](#-arquitetura)
 - [Instalação e Execução](#-instalação-e-execução)
-- [Deploy](#-deploy)
 - [Estrutura de Pastas](#-estrutura-de-pastas)
 - [Demonstração](#-demonstração)
 - [Documentações utilizadas](#-documentações-utilizadas)
@@ -27,7 +26,6 @@
 - [Licença](#-licença)
 
 ## 🔗 Links Úteis
-- 🌐 **Demo Online:** _(adicione o link, se houver deploy)_
 - 📖 **Modelagem UML:** [`docs/modelagem.md`](docs/modelagem.md) e [`docs/casos-de-uso.puml`](docs/casos-de-uso.puml)
 
 ## 📝 Sobre o Projeto
@@ -113,14 +111,6 @@ cd frontend
 npm run dev
 ```
 🎨 Disponível em http://localhost:5173
-
-## 🚀 Deploy
-```bash
-cd frontend && npm run build        # gera frontend/dist
-cd ../backend && mvn clean package   # gera backend/target/aluguel-0.0.1.jar
-java -jar backend/target/aluguel-0.0.1.jar
-```
-Configure `DB_URL`, `DB_USER` e `DB_PASSWORD` no provedor, e `VITE_API_URL` apontando para a API de produção. Ajuste também a origem permitida do CORS em `WebConfig`.
 
 ## 📂 Estrutura de Pastas
 ```
